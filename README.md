@@ -1,4 +1,12 @@
-# React-Mini-Project
-Weather App using React &amp; Material UI
+# React + Vite
 
-This project is a React-based Weather Application that demonstrates all the core concepts of React, including functional components, useState hook, props, state management, and API integration. It uses Material UI for building a modern and responsive UI. The app fetches real-time weather data from the OpenWeather API and displays details such as temperature, humidity, and min/max values for any city or country entered in the search bar. The weather card updates dynamically with icons and background images that change according to weather conditions (sunny, rainy, or cold), delivering an engaging and interactive user experience.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.

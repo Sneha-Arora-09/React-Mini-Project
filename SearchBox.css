@@ -1,0 +1,19 @@
+
+h3{
+    color:black;
+  font-family: Georgia, serif;
+}
+
+.btn{
+    background-color: #448EE2 !important;
+    margin-top: 7px !important;
+    color:white !important;
+        margin-bottom: 25px !important;
+}
+
+.Whether{
+    display:block;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
